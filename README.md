@@ -1,11 +1,11 @@
-# askshir-website
+# askshir.com
 
-Shir Chorev’s personal website. After Hours layout, Blue Hour palette, Sora headings, and DM Sans body text.
+Hi, I’m Shir. A founder, a technologist, and a person who rides on one wheel.
 
-Plain HTML and CSS. Serve this directory locally with `python3 -m http.server 4173`. No build step or JavaScript required.
+My personal website brings together what I’m building, selected talks, and a little of life off the clock.
 
-Hosted with GitHub Pages from the `main` branch, repository root. Target custom domain: `askshir.com`.
+[Visit the website](https://shir22.github.io/askshir-website/) · [Find me on LinkedIn](https://www.linkedin.com/in/shirchorev)
 
-When changing the stylesheet, update its `?v=` value in `index.html` to refresh browser caches.
+Photo by Eyal Toueg.
 
-Photo credit: Eyal Toueg.
+[Development notes](DEVELOPMENT.md)
