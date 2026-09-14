@@ -375,6 +375,8 @@ body.site { color-scheme: dark; }
   --tile-two: #343756;
   --tile-three: #ffc0a9;
   --tile-four: #594c76;
+  --tile-five: #cdd5f4;
+  --tile-six: #774e68;
   --tile-light: #f7f0ff;
   --display-font: "Sora", sans-serif;
   --display-weight: 600;
@@ -407,6 +409,8 @@ body.site { color-scheme: dark; }
 .sunset-theme .sport-kite { background: var(--tile-two); color: var(--tile-light); }
 .sunset-theme .sport-run { background: var(--tile-three); }
 .sunset-theme .sport-euc { background: var(--tile-four); color: var(--tile-light); }
+.sunset-theme .sport-climb { background: var(--tile-five); transform: rotate(-2deg); }
+.sunset-theme .sport-improv { background: var(--tile-six); color: var(--tile-light); transform: rotate(2deg); }
 .sunset-theme .outdoor-note ::selection { background: var(--outdoor-ink); color: var(--tile-light); }
 
 @media (max-width: 850px) {
