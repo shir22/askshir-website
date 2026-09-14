@@ -26,4 +26,4 @@ GitHub Pages publishes the `main` branch from the repository root. `.nojekyll` k
 
 Current URL: [shir22.github.io/askshir-website](https://shir22.github.io/askshir-website/).
 
-The intended custom domain is `askshir.com`; DNS configuration is still pending. Once connected, update the README website link and enable HTTPS for the custom domain.
+The intended custom domain is `askshir.com`; DNS configuration is still pending. The README links to the custom domain. Once connected, enable HTTPS for it.
